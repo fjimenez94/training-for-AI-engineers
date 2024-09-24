@@ -1,7 +1,7 @@
 body {
     font-family: 'Comic Sans MS', cursive, sans-serif; /* Default font for larger screens */
     line-height: 1.6;
-    background-color: #ffe4e1; /* Light pink background */
+    background-color: #e0f7fa; /* Light cyan background */
 }
 
 /* Media query for mobile devices */
@@ -12,11 +12,11 @@ body {
 }
 
 header {
-    background: #ff69b4; /* Deeper shade of pink */
+    background: #0288d1; /* Light blue background */
     color: #ffffff;
     padding: 1rem 0;
     text-align: center;
-    border-bottom: 5px solid #ff1493; /* Dark red border */
+    border-bottom: 5px solid #01579b; /* Darker blue border */
     text-shadow: 1px 1px 2px #000000; /* Text shadow for better contrast */
 }
 
@@ -27,18 +27,18 @@ main {
 }
 
 h1, h2 {
-    color: #ff1493; /* Deep pink text */
+    color: #0277bd; /* Deep blue text */
 }
 
 a {
-    color: #ff69b4; /* Hot pink text */
+    color: #0288d1; /* Light blue text */
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
     text-decoration: underline;
-    color: #ff1493; /* Deep pink hover */
+    color: #01579b; /* Darker blue hover */
 }
 
 ul {
@@ -51,16 +51,16 @@ li {
 }
 
 footer {
-    background: #ff69b4; /* Hot pink background */
+    background: #0288d1; /* Light blue background */
     color: white;
     text-align: center;
     padding: 1rem 0;
-    border-top: 4px solid #ff1493; /* Deep pink border */
+    border-top: 4px solid #01579b; /* Darker blue border */
     width: 100%;
 }
 
 section {
-    background-color: #fff0f5; /* Lavender blush background */
+    background-color: #e1f5fe; /* Light blue background */
     border-radius: 10px;
     padding: 1rem;
     margin-bottom: 1rem;
