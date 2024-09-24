@@ -1,1 +1,1 @@
-# data-analyst-path
+#training-for-AI900
